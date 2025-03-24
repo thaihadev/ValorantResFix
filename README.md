@@ -11,3 +11,9 @@ There is nothing fancy done here. Inside your AppData folder, there are some con
 Directly download the .exe/binaries from the link and run the application without any installation.
 
 https://github.com/xFahim/ValorantResFix/blob/main/binaries.rar
+
+
+edited by thaihadev
+github: https://github.com/thaihadev
+This file was faulty so I edited the source 
+ResolutionQuality is missing on GameUserSetting.ini 
